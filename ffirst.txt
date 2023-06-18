@@ -6,8 +6,5 @@ aaaaa
 bbb
 ccc
 ddd
-<<<<<<< HEAD
-aaa
-=======
+
 sss
->>>>>>> 9397375910844d13dfb6d216fcba8ae6bd01b513
